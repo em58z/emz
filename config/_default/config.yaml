@@ -3,7 +3,7 @@ a# Configuration of Hugo
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Jacob Authement # Website name
+title: Emma Mariano # Website name
 baseurl: 'https://emmacmariano.netlify.app' # Website URL
 copyright: '© {year} Emma C. Mariano' # Footer text, e.g. '© {year} Me'
 
