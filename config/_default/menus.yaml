@@ -7,9 +7,6 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
-    url: '#research'
-    weight: 20
   - name: Teaching
     url: '#teaching'
     weight: 30
@@ -20,5 +17,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: Curriculum Vitae
-    url: https://jacobauthement.com/Authement_CV.pdf
+    url: https://emmacmariano.netlify.app.com/emma_mariano_CV.pdf
     weight: 70
