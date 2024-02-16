@@ -48,9 +48,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/JacobAuthement
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jacob-authement-35a986251
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,8 +63,8 @@ social:
 highlight_name: false
 ---
 
-I am a political science PhD Student at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I received my BA in Political Science and History from the [University of Rhode Island]([https://web.uri/.edu/politicalscience](https://web.uri.edu/politicalscience/). I am interested in international relations and comparative politics and my research interests are focused on femicide and violence against women. 
+I am a political science PhD Student at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I received my BA in Political Science and History from the [University of Rhode Island](https://web.uri.edu/politicalscience/). I am interested in international relations and comparative politics and my research interests are focused on femicide and violence against women. 
 
-You can download a copy of my Curriculum Vitae {{< staticref "emma_mariano_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+You can download a copy of my Curriculum Vitae {{< staticref "emma_mariano_cv.pdf" "newtab" >}}here{{< /staticref >}}.
 
 As a bit of non-academic background, I was born and raised in East Greenwich, RI, located on the coast of the Atlantic. I have experience working in internationally focused non-profits and business management. In my free time you can probably find me at the ice rink figure skating!
